@@ -1,0 +1,28 @@
+{
+    "Print to conaole":{
+        "prefix": "dd", //快捷键
+        "body": [
+            "#include <iostream>",
+            "#include <algorithm>",
+            "#include <string>",
+            "#include <cstring>",
+            "#include <queue>",
+            "#include <unordered_map>",
+            "#include <map>",
+            "#include <set>",
+            "#include <vector>",
+            "#include <cmath>",
+            "#include <numeric>  //iota",
+            "#define ll long long",
+            "using namespace std;",
+            "",
+            "signed main(){",
+            " cin.tie(nullptr)->sync_with_stdio(false);",
+            " $0",    //光标位置
+            "",
+            " return (0^0);",
+            "}",
+        ],
+        "description": "A cpp file template."
+    }
+}

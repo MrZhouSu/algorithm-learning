@@ -1,4 +1,5 @@
 ### E.Cheating Amidakuji
+![E](https://github.com/MrZhouSu/algorithm-learning/blob/main/%E8%A1%A5%E9%A2%98%E6%8A%A5%E5%91%8A/AtCoder/ABC/279/E.png)
 
 #### 解题思路:
 
